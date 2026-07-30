@@ -1,0 +1,7 @@
+apache-airflow
+duckdb
+sqlalchemy
+pandas
+requests
+os
+zipfile
